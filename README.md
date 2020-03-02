@@ -3,6 +3,6 @@
 
 此项目为爬虫模块，WEB模块请前往：https://github.com/mrddy/music_02
 
-＃博客说明地址：https://www.mrddy.com/46.html
+＃博客说明地址：https://www.m7m3.com
 
 具体说明请前往博客查看
